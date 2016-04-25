@@ -52,3 +52,4 @@ Sites
 -----
 
 https://sites.google.com/site/thestoiclife/
+https://www.reddit.com/r/stoicism
