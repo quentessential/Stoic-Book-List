@@ -51,5 +51,5 @@ by Gilbert Murray
 Sites
 -----
 
-https://sites.google.com/site/thestoiclife/
-https://www.reddit.com/r/stoicism
+- https://sites.google.com/site/thestoiclife/
+- https://www.reddit.com/r/stoicism
