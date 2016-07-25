@@ -22,6 +22,7 @@ Musonius Rufus
   
 Hierocles
 --------
+- Elements of Ethics
 
 Socrates
 --------
