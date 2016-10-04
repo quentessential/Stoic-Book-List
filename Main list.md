@@ -52,6 +52,9 @@ by Gilbert Murray
 The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph 
 by Ryan Holiday
 
+The Daily Stoic 
+by Ryan Holiday
+
 Sites
 -----
 
